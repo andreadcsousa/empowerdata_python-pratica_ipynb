@@ -25,7 +25,7 @@ pdf.output("Orçamento.pdf")
 print("Orçamento gerado com sucesso!")
 ```
 
-![PDF gerado](dia01/Orçamento.pdf)
+![PDF gerado](files/orcamento.jpg)
 
 # Dia 2: Automatização de envio de e-mail
 
@@ -76,7 +76,8 @@ for coluna in lista_colunas:
 A biblioteca utilizada para plotar os gráficos foi a [plotly_express]([https://pypi.org/project/plotly-express/](https://plotly.com/python/plotly-express/)).
 Ela é uma ferramenta low-code para criação de gráficos dinâmicos e extremamente interativos.
 
-[Gráfico animado](dia03/grafico_animado.html)
+![Gráfico animado - imagem](files/grafico-animado.png)
+Veja o gráfico em html: [Gráfico animado](dia03/grafico_animado.html)
 
 # Dia 4: Análise financeira com aprendizado de máquina
 
