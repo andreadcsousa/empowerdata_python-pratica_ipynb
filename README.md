@@ -1,8 +1,6 @@
 ![Apresentação da Imersão](files/banner.jpg)
 
-Nessa imersão, foram desenvolvidos 4 projetos práticos, ao longo da semana de 29/05 à 01/06.
-
-Utilizando os princípios básicos da linguagem Python e as melhores bibliotecas.
+Nessa imersão, foram desenvolvidos 4 projetos práticos, ao longo da semana de 29/05 à 01/06. Utilizando os princípios básicos da linguagem Python e as melhores bibliotecas.
 Passando por automação de processos, análise de dados e Machine Learning.
 
 # Dia 1: Gerador de orçamentos em PDF
